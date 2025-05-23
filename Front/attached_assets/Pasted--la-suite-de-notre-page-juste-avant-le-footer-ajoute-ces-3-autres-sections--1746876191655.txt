@@ -1,0 +1,64 @@
+À la suite de notre page( juste avant le footer), ajoute ces 3 autres sections : 
+________________
+/AUTRE SECTION/ (design ça joliment selon tes idées, mais pas d’illustrations) 
+Chiffres clés
+- 190,000 défibrillateurs uniques en gestion administrés par nos clients.
+- 6 ans d’existence dans l’industrie de la défibrillation.
+- 17h de travails supplémentaires évités en moyenne par utilisateur et par semaine.
+- Un logiciel évalué à 4,9/5 par les utilisateurs et spécialistes. 
+- 2 accords gouvernementaux sur l’exercice 2025.
+- Logiciel référencé sur les catalogues prestataires de 25 franchises. 
+________________
+/AUTRE SECTION/
+Pour afficher les fonctionnalités, je veux un directory de 3 colonnes (donc 5 blocs par colonne) (ou sur mobile les un au dessus des autres. pour afficher les fonctionnalités listées ci-dessous. Attention, par défaut ne montrer que 3 lignes (ou 9 blocs) et mettre un bouton « Montrer plus » pour afficher le reste des focntionnaltiés/blocs (à l’inverse, une fois que tout est déroulé, mettre le bouton « Afficher moins » pour réduire à initialement). Ne mets pas d’illustrations etc.
+- Défibrillateurs : Enregistrez les propriétés, identités et caractéristiques de vos défibrillateurs, entrez l’essentiel jusqu’à une centaine d’informations selon votre choix : électrodes, batteries, coffret, borne, etc. L’ensemble de l’activité de l’appareil est listé sur sa fiche en consultation. Il vous est aussi possible d’archiver les défibrillateurs souhaités pour garder une trace. 
+- Clients : Enregistrez les informations concernant vos clients. Utilisez leurs profils pour les relier aux défibrillateurs, accords, locations, tickets, maintenances et bien d’autres. Il est aussi pratique d’enregistrer des informations à jour pour faciliter les communications et contacts directs ou automatiques. 
+- Maintenances : Il existe différentes options pour procéder à une maintenance ; spontanément en cliquant simplement sur l’option de maintenance pour un défibrillateur unique, ou bien en masse ou en lot lors de l’édition d’une tournée de maintenances. Lors d’une maintenance, le technicien visualise les données les plus récentes du défibrillateur ainsi que l’historique ; Il lui est demandé une dizaine d’informations clés à compléter et peux si nécessaire mettre à jour le reste des données. Pour rappel, l’ensemble de l’interface est disponible sur smartphone et tablettes. 
+- Tournées : De pratique courante, un technicien réalise un déplacement pour réaliser un lot de maintenances pour un ou plusieurs client(s) ; notre système de tournée lui permet ainsi de sélectionner les défibrillateurs nécessitant une maintenance, ainsi que ceux éventuellement à installer pour les planifier dans une tournée ; débouchant sur diverses fonctionnalités comme les formulaires de maintenances respectives à chaque défibrillateur ou bien encore la génération d’un lien d’une route optimisée. Le client depuis sont lien partageable est informé de la tournée planifiée, qu’il s’agisse d’une maintenance curative et préventive ; nous recommandons ainsi d’organiser vos tournées 1 à 2 année(s) à l’avance pour gagner en visibilité. 
+- Inventaire : Enregistrez tous les produits de vos stocks tels que les électrodes, batteries, accessoires, kits, pièces de rechanges et autres ; vous donnant ainsi la possibilité de les sortir de stock par exemple lors d’une maintenance ; le produit en stock utilisé est alors sortie du stock avec une mention distinctive. 
+- Techniciens : Que vous travaillez avec des techniciens internes ou externes, enregistrez leurs profils pour leur donner accès à l’édition de maintenances ou d’installations depuis votre logiciel. 
+- Accords : Enregistrez les données et références clées en relation à un contrat que vous avez établis avec un client, afin de générer des alertes spécifiques et concatèner les options des défibrillateurs en fonction des règles établies du contrat.  
+- Conformité : Le périmètre de l’exploitation des défibrillateurs est sur certains versants très clair et parfois plus flou ; utilisez notre logiciel pour être certains de se conformer aux obligations essentielles et devancer les futures régulations du marché. 
+- Tickets et Relations Clients : Consolidez les liens avec vos clients et ne manquez aucune sollicitation. À l’aide du logiciel, les tickets peuvent survenir de différentes sources ; comme la création manuelle d’un ticket de votre côté mais également par exemple depuis le lien partageable à l’aide de l’option de signalement ; l’idée est ainsi de réunir toutes les sources de sollicitations qu’elles soient commerciales ou d’assistance technique ; notre logiciel vous offre plus d’efficience et moins de chaos. 
+- Stabilisez et augmentez vos revenus. Avec notre fonctionnalité de remontées comptables : Ne manquez aucune facturation à réaliser, qu’ils s’agissent de celles liées à vos accords ou aux actions de maintenances. Les deadlines des accords sont soulignés. Veuillez considérer que nous ne fournissons pas de solution de génération de factures, devis ou contrats. 
+- Lien partageable public: Encouragez le contrôle et le pointage des défibrillateurs sans frustrer ni décourager, n’ajoutez pas de tâche à vos clients pour qu’ils restent concentrés sur le métier. Transformez chaque visiteur en potentiel maillon de la chaine de survie. Renforcez votre présence. Rationalisez les demandes de support avec cette solution donnant la capacité à vos clients de tout savoir sur leurs défibrillateurs. Tout cela, sans jamais demander un seul mot de passe pour rendre l’accès plus ouvert et donner à chacun un rôle dans la chaine de survie. 
+- L’intelligence commune et artificielle : Apprentissage continue et accès aux évolutions gratuitement : notre moteur s’alimente des données traitées par les utilisateurs et utilisateurs finaux, permettant de faire fleurir de nouvelles fonctionnalités ,raisonnements, logiques et usages . 
+- Statistiques et prédictions: Des décisions informées avec nos capteurs et statistiques identifiants instantanément les risques d’aujourd’hui et de demain. 
+- Intégration de tiers : Vous utilisez des tiers et souhaitez les conserver pour les intégrer, on s’en charge à la demande. 
+- Responsive sur tous les appareils: Toutes vos données, dans votre poche. Un logiciel optimisé également pour les utilisateurs mobiles. 
+________________
+/AUTRE SECTION/ (design ça joliment selon tes idées) 
+Vos données sont en protégées avec nous.
+Parce qu’elles sont précieuses pour chacun d’entre-nous alors nous prenons soin de vos données.
+- Notre entrepôt de données indépendant est implanté physiquement en Europe méridionale. Il y a un versant en ligne, aussi appelé de production, et un versant déconnecté du réseau, en cas de piratages par exemple.
+- L’ensemble des données et des infrastructures sont doublées chez notre partenaire Oracle. Il s’agit de la première couche de redondance, ceci est aussi utile en cas de dommages à notre entrepôt de données physique. 
+- Enfin, nous mettons à votre disposition en permanence une sauvegarde de récupération, que vous pouvez simplement stocker dans un stockage externe par exemple. Et pour les clients le désirant, une option de service complémentaire vous permet de disposer d’un serveur chez vous sur site. 
+________________
+/AUTRE SECTION/ (design ça joliment selon tes idées) 
+Offres et partenaires
+- Vous êtes une TPE, une branche gouvernementale, une structure éducative ; veuillez nous contacter pour recevoir un code spécial pour accéder à une remise permanente de 10% à 30% sur notre service. 
+- Vous êtes un fabricant dans l’industrie de la défibrillation ; veuillez nous contacter pour établir un partenariat pour offrir à vos clients une remise permanente sur leur abonnement et intégrer au mieux vos modèles de défibrillateurs.
+________________
+/AUTRE SECTION/(design ça joliment selon tes idées, mais il faut un système accordéon type FAQ, pour l’instant mets des réponses dummy) 
+Question1 : Combien d’utilisateur puis-je ajouter? 
+Question2: Est-ce que je peux accéder depuis un smartphone?
+Question3: Le coût de l’abonnement varie-t-il selon le nombre de défibrillateurs? 
+Question4: Puis-je résilier mon abonnement sans préavis? 
+Question5: Puis-je créer des factures, devis et contrats? 
+Question6: Les propriétés sont elles conformes aux standards du secteur? 
+Question7: Avez-vous des offres ou promotions en cours?
+Question8: Outre les défibrillateurs, est-il possible de renseignement les accessoires, bornes, coffrets et autres?
+Question9: Est-il possible de générer les rapports des techniciens en fichier PDF? 
+Question10: Comment assurer mes obligations réglementaires en matière de matériovigilance?
+________________
+/AUTRE SECTION/(design ça joliment selon tes idées) 
+Une assistance magistrale.
+Bénéficiez de la stabilité exceptionnelle du meilleur logiciel pour les gestionnaires et mainteneurs de défibrillateurs, garantissant une expérience fluide et sans soucis de dépannage. Si vous avez besoin d'assistance, soyez assuré que nous sommes à votre disposition à tout moment : 
+- Ligne téléphonique 
+- Suivi par email 
+- Interlocuteur dédié
+- Disponible 24/7 
+Sous-section dans cette section : Besoin d’aller plus loin dans la prise en main du logiciel, plusieurs options de service additionnels s’offrent à vous à la demande: 
+- Academy : Réservez une formation en ligne spontanée. 
+- Onboarding : Une expérience d’intégration en groupe sur site.
+- Base de connaissances : Accédez à un guide en autonomie que nous personnalisons pour votre entreprise.

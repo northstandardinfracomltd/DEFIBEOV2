@@ -1,0 +1,90 @@
+Créé-moi un site web pour présenter mon logiciel. 
+Uniquement en HTML, CSS et JS simplement structuré. Dois-être parfaitement responsive sur mobile et tablet. 
+Utilise exclusivement cette font : https://cdn.glitch.global/4d7db198-d06b-43a0-a17b-b43d16d2bbce/SaaSduo%20more?v=1692822723823 
+
+MENU du site : 
+Je veux un bandeau stick top fin d’un seule ligne composée comme suit : 
+Aligné à gauche : 
+Logo https://cdn.glitch.global/bc7c2627-5dd9-4ad8-9dbe-07e5a31cd361/IDENTITY%20EDIXMATIC%20BLACK.svg?v=1743951473305 
+Aligné à droite : 
+Bouton : Créer un compte (glisse faire montre le formulaire de création de compte). 
+Bouton : Se connecter (ouvre un lien href, mets un truc dummy pour l’instant)
+—————
+SECTION 1 de deux colonnes full width.
+Colonne GAUCHE peux-tu utiliser cette image en background https://cdn.glitch.global/d09a950c-e8cc-447b-8262-85c802c07075/EdixMatic%20I%20Sport%20I%20Franc%CC%A7ais%2C%20France%20I%20Catalog25.V2.svg?v=1745056552269 mais ajoute un overlay au dessus  : 
+- Gros titre de quelques mots
+- Un paragraphe de plusieurs lignes avec un ‘Voir Plus’ / ‘Voir Moins’ (pour dérouler plus de texte). 
+- Mettre deux boutons alignés à côté mais côte à cote, reliés à des ancres : « Fonctionnalités » glisse vers la SECTION 3, « Abonnements » glisse vers la SECTION 4.
+Colonne DROITE : 
+- Un formulaire de création de compte - VOICI LES INSTRUCTIONS POUR CE FORMULAIRE DYNAMIQUE CI-DESSOUS : 
+
+/début des instructions pour le form/
+(Il s’agit d’un formulaire en étapes, donc à chaque fois on doit avoir un bouton ‘Valider’ - sauf quand c’est un choix unique, et un bouton ‘Retour’ sauf au premier et dernier). 
+Step1 : Combien de défibrillateurs opérez-vous? : Choix unique entre : Moins de 200, Entre 200 à 900, Plus de 900
+Step2 : Combien de clients servez-vous? : Choix unique entre : Moins de 20, Entre 20 et 90, Plus de 90
+Step 3 : Avec quel(s) fabricants travaillez vous majoritairement : Choix unique ou multiple entre : Zoll, Cardiac Science, Philips, Mindray, Schiller, Nihon Khoden, Bexen Cardio, Defibtech, HeartSine, Physio-Control, Primedic, Medtronic, Autre. 
+Step 4 : Combien de technicien(s) itinérants(s)? : Choix unique entre : Un seul, Entre 2 à 9, Plus de 9
+Step5: Quel mail souhaitez-vous utiliser pour votre compte : (champ texte mail). 
+Step6: Entrez le nom de votre entreprise : (champ texte mail)
+Step7: Enchanté! Pouvez-vous présenter votre activité pour mieux vous connaitre : Texte ligne multiples. 
+Step8: Mettre Parfait! Blabla … et montrer le coût de l’abonnement à 199 euros par mois illimité et un bouton ’Payer et accéder’ (je vais mettre un lien stripe donc mets un lien href). Mettre un champ code partenaire (le code XL849WS772 = si activé, réduire le prix à 169 euros par mois et renvoyer vers un autre lien href stripe que je mettrais ensuite). Juste au dessus du bouton mettre une phrase à cocher (qui doit être cochée pour continuer) avec J’ai lu les conditions d’usage et de services (mettre ‘conditions d’usage et de services’ avec une lien href, mets un truc dummy pour l’instant). 
+/fin des instructions pour le form/
+—————
+SECTION 2 Mettre un tableau design de la liste des défibrillateurs intégrés par défaut. Mettre un mini champ de recherche pour rechercher / filtrer ce qui est montré. Rajoute une colonne avec un check « Intégré » (comme un statut). 
+Zoll	AED Plus, AED 3, R Series, X Series, Propaq MD, Propaq M
+Cardiac Science	Powerheart G3 Plus, G3 Pro, G5
+Philips	HeartStart FRx, HeartStart OnSite, HeartStart Home
+Mindray	BeneHeart C1A, C2, D1 Pro, D3, D6
+Schiller	FRED Easy, FRED PA-1, DG4000, DG5000, DG6002, SKITY
+Nihon Kohden	Cardiolife AED-3100, TEC-5600, TEC-7531G, TEC-8251A, EMS-1052
+Bexen Cardio	Reanibex 100, Reanibex 700, Reanibex 800
+Defibtech	Lifeline AED, Lifeline VIEW, Lifeline AUTO, Lifeline ECG
+HeartSine	Samaritan PAD 350P, 360P, 450P, 500P
+Physio-Control	Lifepak 15, Lifepak 20e, Lifepak 1000, Lifepak CR2
+Primedic	HeartSave AED, HeartSave AS, HeartSave YA, HeartSave Y
+Medtronic	Cobalt XT, Crome, Visia AF, Evera MRI, Primo MRI, Mirro MRI, Lifepak 1000
+—————
+SECTION 3 : Concernant les fonctionnalités, créé un bloc central de deux colonnes, dans la colonne de gauche un titre (un des sujets ci-dessous), un paragraphe (rédige un paragraphe dummy pour l’instant pour chaque sujet), et un bouton « Démarrer » qui glisse vers l’ancre du formulaire de création de compte. Dans la colonne de droite, tu vas mettre une image d’illustration qui est en relation avec le sujet montré. Au dessus de ce bloc central ajoute un nuage de petits bubbles avec tous les sujets ci-dessous, quand on clique dessus ça montre, le texte et l’image du sujet cliqué (voici une image dummy : https://cdn.glitch.global/d09a950c-e8cc-447b-8262-85c802c07075/EdixMatic%20I%20Sport%20I%20Franc%CC%A7ais%2C%20France%20I%20Catalog25.V2.svg?v=1745056552269 ). Sinon, tant que rien n’est cliqué, auto switch toutes les 5 secondes d’un bulbe/sujet à un autre, mais attention, dès que je clique sur un sujet le auto switch ne fonctionne plus. 
+- Statistiques.
+- Défibrillateurs.
+- Clients.
+- Maintenances.
+- Tickets.
+- Inventaire.
+- Techniciens.
+- Accords.
+- Archivés.
+- Remontées Comptables.
+- Conformité.
+- Sécurité.
+- Stockage. 
+—————
+SECTION 4 : Faire une présentation comparative mettre en valeur le plan Mosaic des deux offres d’abonnements : 
+Voici les plans : 
+
+Mosaic forfait unique à 199 euros par mois : 
+- Sessions illimitées 
+- Défibrillateurs illimité 
+- Accès à toutes les fonctionnalités 
+- Mise à disposition des mises à jour gratuitement 
+- Sans engagement 
+- Formation et support 24/7
+- Conformité et Paralégal 
+
+Horizons à partir de 499 euros par mois : 
+- Inclus Mosaic
+- Fonctionnalités personnalisées 
+- Image de marque personnalisée 
+- Licence propriétaire 
+- Votre nom de domaine 
+- Serveur dédié 
+- Emails transactionnels 
+—————
+FOOTER/PIEDS DE SITE
+
+Mettre un lien vers la page Linkedin https://www.linkedin.com/company/civilprom/
+Mettre un lien vers les nos sites : Logiciels : https://edixmatic.com/ et Sports : https://sport.edixmatic.com/ 
+Mettre un lien « Services pour les fabricants » mettre un lien href dummy 
+Mettre les informations en contact: medical@edixmatic.com +44 7723 501018 
+Mettre les informations sur les cookies et tiers. 
+Mettre des liens vers conditions d’usage et de services  et Politique de confidentialité
